@@ -2,3 +2,9 @@ streamlit==YOUR_STREAMLIT_VERSION
 tensorflow==YOUR_TENSORFLOW_VERSION
 numpy==YOUR_NUMPY_VERSION
 Pillow==YOUR_PILLOW_VERSION
+streamlit
+tensorflow
+numpy
+pillow
+opencv-python-headless
+matplotlib
