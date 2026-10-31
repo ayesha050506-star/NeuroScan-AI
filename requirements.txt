@@ -4,3 +4,5 @@ numpy
 Pillow
 opencv-python-headless
 matplotlib
+reportlab
+scikit-learn
